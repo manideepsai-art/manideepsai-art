@@ -29,5 +29,16 @@ GSSoC '26 Track 2 applicant 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
 </div>
+## 🌐 Open Source PRs
+
+**First Real Contribution!** 🎉
+
+[![PR #134](https://img.shields.io/badge/PR%20-%23134-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manideepsai-art/chatvector-ai/pull/134)
+
+**Details:**
+- Enhanced document upload UX docs
+- manideepsai-art/chatvector-ai  
+- Issue #134 fixed
+- GSSoC '26 Track 2
 
 
