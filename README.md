@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=B.Tech+ECE+%2728;DSA+in+C%2B%2B+%26+Python;GSSoC+%2726+Track+2+Applicant+%F0%9F%9A%80;Learning+GitHub+%26+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=B.Tech+ECE+%2728;DSA+in+C%2B%2B+%26+Python;alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,12 @@
 </p>
 
 ### 👋 About Me
-B.Tech ECE 1st year from NIT Raipur, Chhattisgarh  
-**DSA enthusiast** (C++), Python developer, Open Source beginner  
-GSSoC '26 Track 2 applicant 🚀
+B.Tech ECE 1st year from NIT Raipur
+DSA enthusiast & developer in C++ and python
+Building IOT & Arduino projects
+Contributing daily to stay consistent
+
+
 
 ### 🛠️ Skills
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -24,11 +27,13 @@ GSSoC '26 Track 2 applicant 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
 </div>
+
 ## 🌐 Open Source PRs
 
 **First Real Contribution!** 🎉
