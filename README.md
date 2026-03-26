@@ -13,10 +13,10 @@
 </p>
 
 ### 👋 About Me
-B.Tech ECE 1st year from NIT Raipur
-DSA enthusiast & developer in C++ and python
-Building IOT & Arduino projects
-Contributing daily to stay consistent
+-B.Tech ECE 1st year from NIT Raipur
+-DSA enthusiast & developer in C++ and python
+-Building IOT & Arduino projects
+-Contributing daily to stay consistent
 
 
 
@@ -31,6 +31,7 @@ Contributing daily to stay consistent
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
 </div>
 
