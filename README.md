@@ -13,10 +13,10 @@
 </p>
 
 ### 👋 About Me
--B.Tech ECE 1st year from NIT Raipur 
--DSA enthusiast & developer in C++ and python
--Building IOT & Arduino projects
--Contributing daily to stay consistent
+ - B.Tech ECE 1st year from NIT Raipur 
+ - DSA enthusiast & developer in C++ and python
+ - Building IOT & Arduino projects
+ - Contributing daily to stay consistent
 
 
 
@@ -26,14 +26,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/Arduino-red?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+<img src="https://img.shields.io/badge/Arduino-red?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+
+### 🚀 Projects
+
+- 🤖 **Robot using PID** — A robot with PID control algorithm for smooth and accurate movement
+- ✅ **Todo CLI using Python** — A command line based todo app built with Python
+- 🌐 **HTML Portfolio** — A personal portfolio website built using HTML and CSS
+- ⚡ **Sensor Based Automation Systems** — IoT automation projects using sensors and Arduino
 
 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
 </div>
 
