@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/manideepsai-art">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/GSSoC%20%2726-Track%202-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iNy41IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiM1RkY4MEQiLz4KPC9zdmc+Cg==" alt="GSSoC" />
+  
 </p>
 
 ### 👋 About Me
