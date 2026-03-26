@@ -13,6 +13,7 @@
 </p>
 
 ### 👋 About Me
+
  - B.Tech ECE 1st year from NIT Raipur 
  - DSA enthusiast & developer in C++ and python
  - Building IOT & Arduino projects
@@ -21,6 +22,7 @@
 
 
 ### 🛠️ Skills
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -38,6 +40,7 @@
 
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
