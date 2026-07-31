@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Manideep Sai </h1>
+<h1 align="center">Hi, I'm ManideepSai </h1>
 <h3 align="center">ECE Student | VLSI | RTL Design | Verilog | Embedded Systems | C++ | Python</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=manideepsai-art&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a> •
+  <a href="https://github.com/manideepsai-art" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a>
 </p>
 
@@ -35,8 +35,8 @@ I enjoy solving technical problems, developing practical projects, and continuou
 
 | Project | Status |
 |---|---|
-| 8-bit ALU | In progress |
-| PID Line Follower Robot Car using Arduino Uno | In progress |
+| 8-bit ALU | 
+| PID Line Follower Robot Car using Arduino Uno |
 
 ---
 
@@ -54,5 +54,5 @@ I enjoy solving technical problems, developing practical projects, and continuou
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>
+  <a href="https://github.com/manideepsai-art" target="_blank">GitHub</a>
 </p>
