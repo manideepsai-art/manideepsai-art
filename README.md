@@ -1,61 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=B.Tech+ECE+%2728;DSA+in+C%2B%2B+%26+Python;"alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">VLSI-Focused ECE Student | RTL Design | Verilog | Embedded Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/manideepsai-art">
-    <img src="https://img.shields.io/github/followers/manideepsai-art?logo=github&style=for-the-badge" alt="GitHub followers" />
-  </a>
-  <a href="https://linkedin.com/in/manideepsai-art">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
 </p>
 
-### 👋 About Me
+---
 
- - B.Tech ECE 1st year from NIT Raipur 
- - DSA enthusiast & developer in C++ and python
- - Building IOT & Arduino projects
- - Contributing daily to stay consistent
+### About Me
 
+I'm an ECE student focused on building a strong career in **VLSI and semiconductor design**.
 
+I enjoy working on:
+- Digital logic and RTL design
+- Verilog coding and simulation
+- FPGA and basic embedded systems
+- C++, Python, and DSA for backup roles
+- GATE EC preparation and problem solving
 
-### 🛠️ Skills
+---
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/Arduino-red?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+### Current Focus
 
-### 🚀 Projects
+- Strengthening core ECE fundamentals
+- Writing clean Verilog modules
+- Building practical GitHub projects
+- Learning embedded systems as a secondary skill
+- Preparing for internships, hackathons, and GATE EC
 
-- 🤖 **Robot using PID** — A robot with PID control algorithm for smooth and accurate movement
-- ✅ **Todo CLI using Python** — A command line based todo app built with Python
-- 🌐 **HTML Portfolio** — A personal portfolio website built using HTML and CSS
-- ⚡ **Sensor Based Automation Systems** — IoT automation projects using sensors and Arduino
+---
 
+### Tech Stack
 
+- **VLSI:** Verilog, Digital Logic, FSMs, RTL Design
+- **Embedded:** C, basic microcontrollers, interfacing
+- **Programming:** C++, Python
+- **Tools:** Git, GitHub, Vivado, ModelSim
+- **Core ECE:** Signals, Devices, Network Theory
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=radical" alt="GitHub Streak" width="38%"/>
-</div>
+### Goals
 
-## 🌐 Open Source PRs
+- Become internship-ready in VLSI
+- Build a project-based resume
+- Participate in hackathons and competitions
+- Score well in GATE EC
 
-**First Real Contribution!** 🎉
+---
 
-[![PR #134](https://img.shields.io/badge/PR%20-%23134-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manideepsai-art/chatvector-ai/pull/134)
+### Quote
 
-**Details:**
-- Enhanced document upload UX docs
-- manideepsai-art/chatvector-ai  
-- Issue #134 fixed
-- GSSoC '26 Track 2
-
-
+> "Strong fundamentals create strong engineers."
