@@ -33,12 +33,26 @@ I enjoy solving technical problems, developing practical projects, and continuou
 
 ### Projects
 
-| Project | Status |
+| Project | 
 |---|---|
 | 8-bit ALU | 
 | PID Line Follower Robot Car using Arduino Uno |
 
 ---
+
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manideepsai-art&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manideepsai-art&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manideepsai-art&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ### Focus Areas
 
